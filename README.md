@@ -27,6 +27,8 @@
 
 
 ## Apa itu Diroom.in?
+<p>Diroom.in yaitu layanan penyedia metting room berbasis website. dengan website ini orang tidak akan kesusahan mencari metting room yang dapat disewakan, karena di website Diroom.in sudah menyediakan semua itu.</p>
+
 ### Executive Summary
   - #### Problem Statement
     <p>Saat ini banyak CoffeeShop yang menyediakan tempat untuk disewakan sebagai ruang pertemuan. User yang membutuhkan ruang pertemuan cenderung mencari informasi secara offline. Maka, kami membuat projek untuk mewadahi CoffeeShop yang dapat menyewakan meeting room / tempat berkumpul private sehingga user akan mudah dalam mencari tempatnya.</p>
@@ -42,6 +44,14 @@
 ## Jalankan website Diroom.in
 
 ## Teknologi
+<table>
+  <tr>
+    <td align="center"><img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" width="50px;" height="50px"; alt=""</td>
+    <td align="center"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width="50px;" height="50px"; alt=""</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" width="50px;"      height="50px"; alt=""</td>
+    <td align="center"><img src="https://i.pinimg.com/originals/28/75/3d/28753ddf79d70042ba86564947e13bf5.png" width="50px;" height="50px"; alt=""</td>
+  </tr>
+</table>
 
 ## Resource yang dipakai
   
