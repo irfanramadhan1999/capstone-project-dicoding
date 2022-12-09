@@ -181,6 +181,13 @@ content
   width: 100%;
   border-radius: 5px;
   overflow: hidden;
+  transition: all .5s;
+}
+
+.post-item:hover{
+  transform: scale(1.1);
+  background-color: white;
+  z-index: 99;
 }
 
 .post-item__content {
@@ -190,8 +197,8 @@ content
 .post-item__thumbnail {
   width: 100%;
   max-height: 20rem;
-  
 }
+
 
 .post-item__rating {
   font-size: 15px;
@@ -268,6 +275,73 @@ content
  
  
 /* akhir card */
+
+/* DETAILS ROOM */
+.image-pages-details{
+  width: 900%;
+  height: 500px;
+  margin: 0 auto;
+}
+
+.text-judul-details{
+font-family: 'DM Sans', sans-serif;
+font-weight: 600;
+font-size: 40px;
+text-align: left;
+}
+
+.details__rating{
+  font-size: 20px;
+  text-align: left;
+}
+
+.jumlah-rating-details{
+  background-color: #4A60A1;
+  color: aliceblue;
+}
+
+.deskripsi-pages-details{
+  width: 80%;
+}
+
+.card-pages-room{
+  height: fit-content;
+}
+/* AKHIR DETAILS ROOM */
+
+/** gallery  section **/
+
+.gallery {
+     padding-top: 60px;
+}
+
+.gallery .title-page-gallery {
+     text-align: center;
+     font-family: 'DM Sans', sans-serif;
+     font-weight: 500;
+     margin-bottom: 20px;
+}
+
+.gallery .gallery_img {
+     overflow: hidden;
+     margin-bottom: 30px;
+}
+
+.gallery .gallery_img figure {
+     margin: 0;
+}
+
+.gallery .gallery_img figure img {
+     width: 100%;
+     transition: all .5s;
+}
+
+.gallery .gallery_img figure img:hover {
+     transform: scale(1.2);
+}
+
+
+/** end gallery  section **/
 
 footer {
   margin-top: 100px;
