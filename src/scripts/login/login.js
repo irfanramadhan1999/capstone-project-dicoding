@@ -58,7 +58,7 @@ buttonSignIn.addEventListener('click', (e) => {
     signInWithEmailAndPassword(auth, emailSignIn, passwordSignIn)
     .then((userCredential) => {
         const user = userCredential.user;
-        location.href="http://127.0.0.1:5500/src/templates/index.html";
+        location.href="index.html";
     })
     .catch((error) => {
         const errorCode = error.code;
