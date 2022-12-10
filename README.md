@@ -39,9 +39,9 @@
   - #### Alasan
     <p>Aplikasi ini diharapkan dapat memajukan perekonomian bagi penyedia tempat dan memudahkan user dalam mencari tempat pertemuan.</p>
 
-## Vidio Pitching Diroom.in
+## Vidio Presentasi Diroom.in
+https://drive.google.com/file/d/17wmZaOvDe8UuG_jXYha1Y_iBvwsaGbtY/view?usp=share_link
 
-## Jalankan website Diroom.in
 
 ## Teknologi
 <table>
