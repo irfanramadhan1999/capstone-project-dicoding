@@ -38,7 +38,12 @@ https://drive.google.com/file/d/17wmZaOvDe8UuG_jXYha1Y_iBvwsaGbtY/view?usp=share
   </tr>
 </table>
 
-## Resource yang dipakai
+## Cara Menjalankan Diroom.in
+1. Clone Repository ini
+2. Setelah itu buka pada code editor
+3. masuk ke folder src/template
+4. masuk ke index.html
+5. klik kanan -> open in browser
   
 ## Screenshot Tampilan Aplikasi
 
