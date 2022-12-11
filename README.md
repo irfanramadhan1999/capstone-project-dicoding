@@ -10,23 +10,8 @@
 
 <hr/>
 
-## Daftar Isi
-- [Diroom.in](#Diroom.in)
-  - [Daftar Isi](#daftar-isi)
-  - [Apa itu Diroom.in?](#apa-itu-Diroom.in)
-    - [Executive Summary](#summary)
-      - [Problem Statement](#)
-      - [Research Question](#)
-      - [Latar Belakang](#)
-      - [Alasan](#)
-  - [Jalankan website Diroom.in](#)
-  - [Vidio Pitching Diroom.in](#)
-  - [Teknologi](#)
-  - [Resource yang dipakai](#)
-  - [Screenshot Tampilan Aplikasi](#)
 
-
-## Apa itu Diroom.in?
+## Apa itu Diroom.in
 <p>Diroom.in yaitu layanan penyedia metting room berbasis website. dengan website ini orang tidak akan kesusahan mencari metting room yang dapat disewakan, karena di website Diroom.in sudah menyediakan semua itu.</p>
 
 ### Executive Summary
